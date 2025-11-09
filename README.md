@@ -19,8 +19,6 @@ AI says: It's quite humid today! You should probably turn on a fan.
 - ⚙️ Python bridges the sensor and AI  
 - 🧠 Ollama interprets the data and speaks in natural language  
 
-This project is great for students learning how **data sensing** and **AI interpretation** combine to create smart systems like weather assistants or smart homes.
-
 ---
 
 ## 🪛 Hardware Setup
@@ -39,7 +37,5 @@ This project is great for students learning how **data sensing** and **AI interp
 | VCC        | 3.3V        | Power supply |
 | DATA       | GPIO 4      | Data pin (can be changed) |
 | GND        | GND         | Ground |
-
-*(Remember to use a 10kΩ pull-up resistor between DATA and 3.3V if your module doesn’t have one built-in.)*
 
 ---
